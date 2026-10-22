@@ -1,0 +1,240 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "tag": "Transferências",
+      "cat": "transferencias",
+      "imagem": "assets/images/arroyo.png",
+      "titulo": "Cruzeiro anuncia a contratação de Keny Arroyo",
+      "resumo": "O Cruzeiro anunciou a contratação do atacante equatoriano Keny Arroyo, na manhã desta terça-feira. O jogador chega em definitivo no time celeste, assinando contrato até o fim de 2029 com o clube. Ele foi registrado pela Raposa no Boletim Informativo Diário (BID).",
+      "fonte": "Ge",
+      "url": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2025/09/02/cruzeiro-anuncia-contratacao-de-keny-arroyo-ex-besiktas.ghtml",
+      "data": "02/09/2025"
+    },
+    {
+      "id": 2,
+      "tag": "Transferências",
+      "cat": "transferencias",
+      "imagem": "assets/images/lautaro.png",
+      "titulo": "Santos anuncia contratação do atacante Lautaro Díaz",
+      "resumo": "O Santos anunciou nesta terça-feira a contratação do atacante Lautaro Díaz. O argentino de 27 anos chega por empréstimo, junto ao Cruzeiro, até 31 de julho de 2026, e teve o nome publicado no BID (Boletim Informativo Diário) da CBF (Confederação Brasileira de Futebol).",
+      "fonte": "Ge",
+      "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2025/09/02/santos-anuncia-contratacao-do-atacante-lautaro-diaz.ghtml",
+      "data": "02/09/2025"
+    },
+    {
+      "id": 3,
+      "tag": "Transferências",
+      "cat": "transferencias",
+      "imagem": "assets/images/wesley.png",
+      "titulo": "Inter comunica venda de Wesley e fecha janela com quase um time de saídas",
+      "resumo": "O Inter comunicou, na manhã quarta-feira, a ida em definitivo do atacante Wesley para o Al-Rayyan, do Catar. O jogador sai do Colorado após quase duas temporadas e é o 10º atleta a deixar o Beira-Rio desde o início da janela. Por outro lado, só três jogadores foram contratados.",
+      "fonte": "Ge",
+      "url": "https://ge.globo.com/rs/futebol/times/internacional/noticia/2025/09/03/inter-comunica-venda-de-wesley-e-fecha-janela-com-quase-um-time-de-saidas-veja-como-ficou-elenco.ghtml",
+      "data": "03/09/2025"
+    },
+    {
+      "id": 4,
+      "tag": "Transferências",
+      "cat": "transferencias",
+      "imagem": "assets/images/willian.png",
+      "titulo": "Grêmio anuncia contratação de Willian",
+      "resumo": "O Grêmio oficializou nesta sexta-feira a contratação do meia Willian. Aos 37 anos, o meia assinou contrato com o Tricolor até dezembro de 2026, com opção de renovação por mais um ano.",
+      "fonte": "Ge",
+      "url": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2025/09/05/gremio-anuncia-contratacao-de-willian.ghtml",
+      "data": "05/09/2025"
+    },
+    {
+      "id": 5,
+      "tag": "Copa do Mundo",
+      "cat": "copa",
+      "imagem": "assets/images/antonny.png",
+      "titulo": "Jornal espanhol detona Antony e vê brasileiro fora da Copa do Mundo: 'Dá razão a Ancelotti'",
+      "resumo": "O jornal espanhol As detonou Antony por sua seca de gols no Betis. O atacante não marca há quatro jogos e passou novamente em branco no empate em 0 a 0 com o Espanyol, no último sábado, por LALIGA. Para o veículo, o brasileiro não está fazendo por onde para ser convocado pela seleção para disputar a Copa do Mundo de 2026",
+      "fonte": "ESPN",
+      "url": "https://www.espn.com.br/futebol/laliga/artigo/_/id/16532626/jornal-espanhol-detona-antony-ve-brasileiro-fora-copa-do-mundo-da-razao-a-ancelotti",
+      "data": "05/04/2026"
+    },
+    {
+      "id": 6,
+      "tag": "Libertadores",
+      "cat": "brasil",
+      "imagem": "assets/images/mpkj.png",
+      "titulo": "Matheus Pereira marca, e Cruzeiro estreia com vitória na Libertadores",
+      "resumo": "Mesmo fora de casa, o Cruzeiro estreou com vitória na Libertadores. A equipe comandada por Artur Jorge bateu o Barcelona-EQU, em Guayaquil, por 1 a 0. O único gol da partida foi anotado pelo meio-campista Matheus Pereira.",
+      "fonte": "Lance!",
+      "url": "https://www.lance.com.br/cruzeiro/matheus-pereira-marca-e-cruzeiro-estreia-com-vitoria-na-libertadores.html",
+      "data": "07/04/2026"
+    },
+    {
+      "id": 7,
+      "tag": "Champions League",
+      "cat": "champions",
+      "imagem": "assets/images/mbappe.png",
+      "titulo": "Bayern 'cala' Bernabéu duas vezes, mas Mbappé marca no fim e mantém Real Madrid 'vivo' mesmo após derrota na Championss",
+      "resumo": "O Bayern de Munique largou na frente nas quartas de final da Champions League. Nesta terça-feira (7), em pleno Santiago Bernabéu, os Bávaros visitaram o Real Madrid pelo jogo de ida e venceram por 2 a 1, construindo vantagem para a volta, na Alemanha.",
+      "fonte": "ESPN",
+      "url": "https://www.espn.com.br/futebol/champions-league/artigo/_/id/16541580/champions-league-bayern-de-munique-cala-santiago-bernabeu-mas-kylian-mbappe-marca-no-fim-mantem-real-madrid-vivo-apos-derrota",
+      "data": "07/04/2026"
+    },
+    {
+      "id": 8,
+      "tag": "Champions League",
+      "cat": "champions",
+      "imagem": "assets/images/doue.png",
+      "titulo": "PSG domina Liverpool, abre 2 a 0 e fica perto da semifinal da Champions League",
+      "resumo": "O PSG largou na frente por uma vaga na semifinal da Champions League. Com uma grande atuação no Parc des Princes, o time francês venceu o Liverpool por 2 a 0 nesta quarta-feira (8), pelo jogo de ida das quartas, e abriu vantagem importante no confronto.",
+      "fonte": "ESPN",
+      "url": "https://www.espn.com.br/futebol/champions-league/artigo/_/id/16547558/psg-domina-liverpool-abre-2-a-0-e-fica-perto-da-semifinal-da-champions-league",
+      "data": "08/04/2026"
+    },
+    {
+      "id": 9,
+      "tag": "Champions League",
+      "cat": "champions",
+      "imagem": "assets/images/vinijr.png",
+      "titulo": "Ex-Real Madrid detona Vinicius Jr., diz sentir 'pena' do brasileiro e revela o que o 'irrita muito' no atacante: 'É horrível'",
+      "resumo": "Com passagem pelo Real Madrid entre 2008 e 2010, Rafael Van der Vaart, hoje comentarista do canal de televisão Ziggo Sports, da Holanda, detonou a exibição e o comportamento de Vinicius Jr. na derrota merengue por 2 a 1, em pleno Santiago Bernabéu, para o Bayern de Munique, no confronto de ida das quartas de final da Uefa Champions League.",
+      "fonte": "ESPN",
+      "url": "https://www.espn.com.br/futebol/champions-league/artigo/_/id/16544970/real-madrid-vinicius-jr-van-der-vaart-horrivel-sentir-pena-brasileiro-revela-o-que-o-irrita-muito",
+      "data": "08/04/2026"
+    },
+    {
+      "id": 10,
+      "tag": "Champions League",
+      "cat": "champions",
+      "imagem": "assets/images/barca.png",
+      "titulo": "Jornais dizem que Barcelona precisa de 'milagre' na Champions e criticam pênalti não marcado: 'Um escândalo'",
+      "resumo": "O Barcelona precisa de um milagre para continuar em busca do título da Uefa Champions League depois de ter sido prejudicado pela arbitragem contra o Atlético de Madrid no jogo de ida das quartas de final. Essa é a opinião dos jornais espanhóis.",
+      "fonte": "ESPN",
+      "url": "https://www.espn.com.br/futebol/champions-league/artigo/_/id/16548527/barcelona-jornais-dizem-clube-precisa-milagre-champions-league-criticam-penalti-nao-marcado",
+      "data": "08/04/2026"
+    },
+    {
+      "id": 11,
+      "tag": "Copa do Mundo",
+      "cat": "copa",
+      "imagem": "assets/images/arbcopa.png",
+      "titulo": "Copa do Mundo terá nove representantes da arbitragem do Brasil; veja nomes",
+      "resumo": "A Fifa divulgou, nesta quinta-feira (9), que o Brasil terá nove representantes no quadro de arbitragem Copa do Mundo de 2026. Na arbitragem, Raphael Claus (SP), Ramon Abatti Abel (SC) e Wilton Pereira Sampaio (GO) foram os escolhidos.",
+      "fonte": "ESPN",
+      "url": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16551330/copa-do-mundo-tera-nove-representantes-arbitragem-brasil-veja-nomes",
+      "data": "09/04/2026"
+    },
+    {
+      "id": 12,
+      "tag": "Sul-Americana",
+      "cat": "brasil",
+      "imagem": "assets/images/sula.png",
+      "titulo": "Botafogo e Bragantino estreiam pela Copa Sul-Americana 2026",
+      "resumo": "A competição, que vai até novembro, tem sete brasileiros: São Paulo, Grêmio, RB Bragantino, Atlético-MG, Santos, Vasco e Botafogo. As partidas são transmitidas pelo SBT, ESPN e Disney+.",
+      "fonte": "Olympics.com",
+      "url": "https://www.olympics.com/pt/noticias/copa-sul-americana-2026-onde-assistir-lista-transmissao",
+      "data": "10/04/2026"
+    },
+    {
+      "id": 14,
+      "tag": "Copa do Mundo",
+      "cat": "copa",
+      "imagem": "assets/images/messi.png",
+      "titulo": "Argentina repete estratégia questionada em últimos amistosos pré-Copa do Mundo",
+      "resumo": "A Argentina definiu os dois últimos amistosos que disputará antes do início da Copa do Mundo. Os jogos serão contra Honduras e Islândia, respectivas 66ª e 75ª colocadas do ranking da Fifa. Dessa forma, a atual campeã do mundo repete a estratégia de enfrentar seleções de menor expressão e que não estão classificadas para o Mundial, como nas partidas contra Zâmbia e Mauritânia da última Data Fifa.",
+      "fonte": "Lance!",
+      "url": "https://www.lance.com.br/copa-do-mundo/argentina-repete-estrategia-questionada-em-ultimos-amistosos-pre-copa-do-mundo.html",
+      "data": "10/04/2026"
+    },
+    {
+      "id": 15,
+      "tag": "Copa do Mundo",
+      "cat": "copa",
+      "imagem": "assets/images/roney.png",
+      "titulo": "Romário diz se levaria Neymar para Copa do Mundo e faz alerta sobre Seleção: 'Entrou em declínio'",
+      "resumo": "O ex-atacante acredita que o camisa 10 do Santos só merece ser convocado por Carlo Ancelotti se tiver em forma. No entanto, há uma ressalva: a equipe não pode depender exclusivamente dele.",
+      "fonte": "ESPN",
+      "url": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16556715/romario-diz-se-levaria-neymar-copa-do-mundo-faz-alerta-sobre-selecao-entrou-em-declinio",
+      "data": "10/04/2026"
+    },
+    {
+      "id": 16,
+      "tag": "Brasileirão",
+      "cat": "brasil",
+      "imagem": "assets/images/allianz.png",
+      "titulo": "Allianz rescinde contrato de naming rights com a arena do Palmeiras",
+      "resumo": "A Allianz anunciou nesta sexta-feira que rescindiu o contrato dos naming rights do estádio do Palmeiras. Chamado de Allianz Parque desde 2014, o local deve ter o Nubank como substituto.",
+      "fonte": "Ge",
+      "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/04/10/allianz-rescinde-contrato-de-naming-rights-com-a-arena-do-palmeiras.ghtml",
+      "data": "10/04/2026"
+    },
+    {
+      "id": 17,
+      "tag": "Libertadores",
+      "cat": "brasil",
+      "imagem": "assets/images/coletivafd.png",
+      "titulo": "Diniz diz que torcida do Corinthians tem que acreditar no sonho da Libertadores e projeta dérbi: 'Como uma final'",
+      "resumo": "Com a vitória na estreia do Corinthians na CONMEBOL Libertadores, Fernando Diniz falou sobre o seu primeiro jogo à frente da equipe paulista. E explicou a 'obsessão' para o clube conquistar a América de novo.",
+      "fonte": "ESPN",
+      "url": "https://www.espn.com.br/futebol/corinthians/artigo/_/id/16554292/corinthians-diniz-diz-torcida-tem-acreditar-sonho-libertadores-projeta-derbi-como-uma-final",
+      "data": "10/04/2026"
+    },
+    {
+      "id": 18,
+      "tag": "Copa do Mundo",
+      "cat": "copa",
+      "imagem": "assets/images/wps.png",
+      "titulo": "Wilton Sampaio vai para a 3ª Copa do Mundo e sonha em apitar a final: 'Cereja do bolo'",
+      "resumo": "Uma vez é bom, duas é ótimo e três é... melhor ainda! Wilton Sampaio (Fifa/GO) está confirmado na Copa do Mundo deste ano, nos Estados Unidos, México e Canadá, e não vê a hora de trabalhar em seu terceiro Mundial.",
+      "fonte": "Ge",
+      "url": "https://ge.globo.com/go/copa-do-mundo/noticia/2026/04/10/wilton-sampaio-vai-para-a-3a-copa-do-mundo-e-sonha-em-apitar-a-final-cereja-do-bolo.ghtml",
+      "data": "10/04/2026"
+    },
+    {
+      "id": 19,
+      "tag": "Copa do Mundo",
+      "cat": "copa",
+      "imagem": "assets/images/album.png",
+      "titulo": "Quando começa a vender o álbum da Copa? Guia completo 2026 com preços",
+      "resumo": "O álbum de figurinhas da Copa do Mundo da FIFA 2026 estará disponível a partir de 1º de maio para o público. A maior competição de futebol do planeta começa oficialmente no dia 11 de junho e acontecerá em três países: México, Canadá e Estados Unidos. Dessa forma, o álbum oficial do mundial terá 980 cromos, com 68 figurinhas especiais, além de contemplar as 48 seleções que estarão presentes no torneio deste ano. Para te ajudar a tirar as dúvidas relacionadas ao assunto, o TechTudo preparou um guia completo sobre o álbum da Copa do Mundo 2026. Confira.",
+      "fonte": "TechTudo",
+      "url": "https://www.techtudo.com.br/guia/2026/04/quando-comeca-a-vender-o-album-da-copa-guia-completo-2026-com-precos-edsoftwares.ghtml",
+      "data": "10/04/2026"
+    },
+    {
+      "id": 20,
+      "tag": "Brasil",
+      "cat": "brasil",
+      "imagem": "assets/images/brasil17.png",
+      "titulo": "Riquelme faz dois, Brasil vence a Argentina no Sul-Americano Sub-17 e se classifica para a Copa",
+      "resumo": "A Seleção Brasileira Sub-17 venceu a Argentina por 3 a 0, com dois gols de Riquelme e um de Eduardo Conceição, na noite desta sexta-feira (10), no Estádio Ameliano Villeta, pela trceira rodada do Grupo B do Campeonato Sul-Americano da categoria, realizado no Paraguai.",
+      "fonte": "Lance!",
+      "url": "https://www.lance.com.br/selecao-brasileira/riquelme-faz-dois-brasil-vence-a-argentina-no-sul-americano-sub-17-e-se-classifica-para-a-copa.html",
+      "data": "10/04/2026"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "187cb7e5",
+      "login": "admin",
+      "senha": "123",
+      "nome": "Administrador do Sistema",
+      "email": "admin@abc.com",
+      "admin": true
+    },
+    {
+      "id": "ec37c83d",
+      "login": "user",
+      "senha": "123",
+      "nome": "Usuario Comum",
+      "email": "user@abc.com",
+      "admin": false
+    },
+    {
+      "id": "689581fd-7332-4773-8036-d6548ee2d950",
+      "login": "leonardo",
+      "nome": "Leonardo",
+      "email": "leo@gmail.com",
+      "senha": "12345",
+      "admin": false
+    }
+  ],
+  "favoritos": []
+}

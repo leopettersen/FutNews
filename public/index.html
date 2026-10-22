@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FutNews</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <div class="fn-page">
+
+    <header class="fn-header">
+      <h1>FutNews</h1>
+      <p>Seu portal de noticias sobre o mundo da bola</p>
+    </header>
+
+    <!-- Menu principal (reflete o status do usuario logado) -->
+    <nav class="fn-topnav">
+      <a href="index.html" class="active">Home</a>
+      <a href="cadastro_itens.html" data-admin><i class="bi bi-pencil-square"></i> Cadastro</a>
+      <a href="favoritos.html" data-auth><i class="bi bi-heart"></i> Favoritos</a>
+      <a href="login.html" data-guest><i class="bi bi-box-arrow-in-right"></i> Login</a>
+      <a href="#" data-logout><i class="bi bi-box-arrow-right"></i> Sair (<span data-username></span>)</a>
+    </nav>
+
+    <!-- ============ Secao 1: Carrossel de destaques ============ -->
+    <section class="fn-secao">
+      <h2 class="fn-secao-titulo">Destaques</h2>
+      <div id="carouselDestaques" class="carousel slide fn-carousel" data-bs-ride="carousel">
+        <div class="carousel-inner" id="carousel-inner"></div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselDestaques" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+          <span class="visually-hidden">Anterior</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselDestaques" data-bs-slide="next">
+          <span class="carousel-control-next-icon"></span>
+          <span class="visually-hidden">Proximo</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- ============ Secao 2: Pesquisa + cards + favoritos ============ -->
+    <section class="fn-secao">
+      <h2 class="fn-secao-titulo">Todas as noticias</h2>
+
+      <div class="fn-busca">
+        <input type="text" id="busca" placeholder="Buscar por titulo ou descricao..." oninput="buscar(this.value)" />
+      </div>
+
+      <nav class="fn-nav" id="nav">
+        <button class="active" onclick="filtrar('todos', this)">Todos</button>
+        <button onclick="filtrar('brasil', this)">Brasil</button>
+        <button onclick="filtrar('champions', this)">Champions</button>
+        <button onclick="filtrar('transferencias', this)">Transferencias</button>
+        <button onclick="filtrar('copa', this)">Copa do Mundo</button>
+      </nav>
+
+      <main class="fn-articles" id="cards"></main>
+    </section>
+
+    <!-- ============ Secao 3: Visualizacao avancada (grafico) ============ -->
+    <section class="fn-secao">
+      <h2 class="fn-secao-titulo">Visao geral por categoria</h2>
+      <div class="fn-grafico-wrap">
+        <canvas id="grafico"></canvas>
+      </div>
+    </section>
+
+    <!-- ============ Secao 4: Informacoes do autor ============ -->
+    <section class="fn-secao">
+      <h2 class="fn-secao-titulo">Sobre o autor</h2>
+      <div class="fn-autor">
+        <img class="fn-autor-foto" src="assets/images/autor.png" alt="Foto do autor" />
+        <div class="fn-autor-info">
+          <!-- TODO: substituir pelos dados reais do aluno antes da entrega -->
+          <h3>Leonardo Federici Pettersen</h3>
+          <p class="fn-autor-bio">Estudante de Engenharia de Software</p>
+          <p><strong>Curso:</strong> Engenharia de Software - PucMinas&nbsp;</p>
+          <div class="fn-autor-redes">
+            <a href="https://github.com/leopettersen" target="_blank"><i class="bi bi-github"></i> GitHub</a>
+            <a href="https://www.linkedin.com/in/leonardo-federici-pettersen-b9b19b3b3/" target="_blank"><i class="bi bi-linkedin"></i> LinkedIn</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="fn-footer">
+      Fontes:
+      <a href="https://www.lance.com.br" target="_blank">Lance!</a> |
+      <a href="https://www.espn.com/soccer/" target="_blank">ESPN</a> |
+      <a href="https://ge.globo.com" target="_blank">GE Globo</a>
+    </footer>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="assets/scripts/auth.js"></script>
+  <script src="assets/scripts/app.js"></script>
+</body>
+</html>
